@@ -27,3 +27,6 @@
 - 【東大卒エンジニア】YTS高橋 Youtube
   初心者でも簡単！PythonでLINEチャットボットを作成してみよう！
   https://www.youtube.com/watch?v=jBsvdgFMZtg&t=1569s
+- 西住工房 YouTube
+  SQLiteデータベースファイルの基本操作
+  https://www.youtube.com/watch?v=cFY1BNZQ7Xo
